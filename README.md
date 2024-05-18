@@ -16,5 +16,8 @@ Una aplicación de lista de tareas para gestionar tus tareas diarias.
 
 Una aplicación que muestra el clima actual utilizando una API de clima.
 
-Cada proyecto está organizado en su propia carpeta dentro del repositorio.
+### randomPassword
 
+Un proyecto que genera contraseñas random para el usuario permitiendo copiarlas fácilmente
+
+Cada proyecto está organizado en su propia carpeta dentro del repositorio.
